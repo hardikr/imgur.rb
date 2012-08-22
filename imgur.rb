@@ -5,7 +5,6 @@ require 'json'
 IM_DIR = "#{ENV['HOME']}/.img"
 AUTH_FILE = IM_DIR+"/auth"
 OAUTH_FILE = IM_DIR+"/oauth"
-USER_FILE = IM_DIR+"/user"
 
 IMGUR_URL = 'https://api.imgur.com'
 
